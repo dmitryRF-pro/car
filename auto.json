@@ -1,0 +1,146 @@
+[
+{
+    "id": "1",
+    "mark": "Kia",
+    "model": "Carnival",
+    "priceNew": "4610000",
+    "priceCurrent": "4270000",
+    "year": 2024,
+    "mileage": 10,
+    "volume": 2.2,
+    "horsepower": 194,
+    "img": "https://cw10608.tw1.ru/carnival1.webp",
+    "gallery": {
+        "img1": "https://cw10608.tw1.ru/carnival2.webp",
+        "img2": "https://cw10608.tw1.ru/carnival3.webp",
+        "img3": "https://cw10608.tw1.ru/carnival4.webp",
+        "img4": "https://cw10608.tw1.ru/carnival5.webp"
+    }
+},
+{
+    "id": "2",
+    "mark": "Toyota",
+    "model": "Camry VIII",
+    "priceNew": "3180000",
+    "priceCurrent": "2880000",
+    "year": 2021,
+    "mileage": 52363,
+    "volume": 2.5,
+    "horsepower": 200,
+    "img": "https://cw10608.tw1.ru/camri1.webp",
+    "gallery": {
+        "img1": "https://cw10608.tw1.ru/camri2.webp",
+        "img2": "https://cw10608.tw1.ru/camri3.webp",
+        "img3": "https://cw10608.tw1.ru/camri4.webp",
+        "img4": "https://cw10608.tw1.ru/camri5.webp"
+    }
+},
+{
+    "id": "3",
+    "mark": "Chevrolet",
+    "model": "Tahoe",
+    "priceNew": "13150000",
+    "priceCurrent": "12890000",
+    "year": 2024,
+    "mileage": 90,
+    "volume": 5.3,
+    "horsepower": 360,
+    "img": "https://cw10608.tw1.ru/tahoe1.webp",
+    "gallery": {
+        "img1": "https://cw10608.tw1.ru/tahoe2.webp",
+        "img2": "https://cw10608.tw1.ru/tahoe3.webp",
+        "img3": "https://cw10608.tw1.ru/tahoe4.webp",
+        "img4": "https://cw10608.tw1.ru/tahoe5.webp"
+    }
+},
+{
+    "id": "4",
+    "mark": "BMW",
+    "model": "7 серии Long 750Li xDrive",
+    "priceNew": "4138000",
+    "priceCurrent": "3998000",
+    "year": 2017,
+    "mileage": 110285,
+    "volume": 4.4,
+    "horsepower": 450,
+    "img": "https://cw10608.tw1.ru/bmw1.webp",
+    "gallery": {
+        "img1": "https://cw10608.tw1.ru/bmw2.webp",
+        "img2": "https://cw10608.tw1.ru/bmw3.webp",
+        "img3": "https://cw10608.tw1.ru/bmw4.webp",
+        "img4": "https://cw10608.tw1.ru/bmw5.webp"
+    }
+},
+{
+    "id": "5",
+    "mark": "Geely",
+    "model": "Monjaro",
+    "priceNew": "3612000",
+    "priceCurrent": "3480000",
+    "year": 2025,
+    "mileage": 15,
+    "volume": 2.0,
+    "horsepower": 238,
+    "img": "https://cw10608.tw1.ru/monjaro1.webp",
+    "gallery": {
+        "img1": "https://cw10608.tw1.ru/monjaro2.webp",
+        "img2": "https://cw10608.tw1.ru/monjaro3.webp",
+        "img3": "https://cw10608.tw1.ru/monjaro4.webp",
+        "img4": "https://cw10608.tw1.ru/monjaro5.webp"
+    }
+},
+{
+    "id": "6",
+    "mark": "Ford",
+    "model": "F-150 Raptor",
+    "priceNew": "15100000",
+    "priceCurrent": "14700000",
+    "year": 2024,
+    "mileage": 50,
+    "volume": 3.5,
+    "horsepower": 450,
+    "img": "https://cw10608.tw1.ru/ford1.webp",
+    "gallery": {
+        "img1": "https://cw10608.tw1.ru/ford2.webp",
+        "img2": "https://cw10608.tw1.ru/ford3.webp",
+        "img3": "https://cw10608.tw1.ru/ford4.webp",
+        "img4": "https://cw10608.tw1.ru/ford5.webp"
+    }
+},
+{
+    "id": "7",
+    "mark": "Mazda",
+    "model": "6 III (GJ) Рестайлинг",
+    "priceNew": "2250000",
+    "priceCurrent": "1860000",
+    "year": 2018,
+    "mileage": 147941,
+    "volume": 2.0,
+    "horsepower": 150,
+    "img": "https://cw10608.tw1.ru/mazda1.webp",
+    "gallery": {
+        "img1": "https://cw10608.tw1.ru/mazda2.webp",
+        "img2": "https://cw10608.tw1.ru/mazda3.webp",
+        "img3": "https://cw10608.tw1.ru/mazda4.webp",
+        "img4": "https://cw10608.tw1.ru/mazda5.webp"
+    }
+},
+{
+    "id": "8",
+    "mark": "Jeep",
+    "model": "Grand Cherokee",
+    "priceNew": "8150000",
+    "priceCurrent": "7450000",
+    "year": 2023,
+    "mileage": 38,
+    "volume": 2.0,
+    "horsepower": 272,
+    "img": "https://cw10608.tw1.ru/jeep1.webp",
+    "gallery": {
+        "img1": "https://cw10608.tw1.ru/jeep2.webp",
+        "img2": "https://cw10608.tw1.ru/jeep3.webp",
+        "img3": "https://cw10608.tw1.ru/jeep4.webp",
+        "img4": "https://cw10608.tw1.ru/jeep5.webp"
+    }
+}
+]
