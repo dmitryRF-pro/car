@@ -1,0 +1,82 @@
+[
+  {
+    "id": "1",
+    "img": "https://cw10608.tw1.ru/bank1.png",
+    "title": "Сетелем"
+  },
+  {
+    "id": "2",
+    "img": "https://cw10608.tw1.ru/bank2.png",
+    "title": "ВТБ"
+  },
+  {
+    "id": "3",
+    "img": "https://cw10608.tw1.ru/bank3.png",
+    "title": "Связь Банк"
+  },
+  {
+    "id": "4",
+    "img": "https://cw10608.tw1.ru/bank4.png",
+    "title": "Сбер"
+  },
+  {
+    "id": "5",
+    "img": "https://cw10608.tw1.ru/bank5.png",
+    "title": "ЛокоБанк"
+  },
+  {
+    "id": "6",
+    "img": "https://cw10608.tw1.ru/bank6.png",
+    "title": "Меткобанк"
+  },
+  {
+    "id": "7",
+    "img": "https://cw10608.tw1.ru/bank7.png",
+    "title": "Уралсиб"
+  },
+  {
+    "id": "8",
+    "img": "https://cw10608.tw1.ru/bank8.png",
+    "title": "Оранжевый банк"
+  },
+  {
+    "id": "9",
+    "img": "https://cw10608.tw1.ru/bank9.png",
+    "title": "Русфинансбанк"
+  },
+  {
+    "id": "10",
+    "img": "https://cw10608.tw1.ru/bank10.png",
+    "title": "Газпромбанк"
+  },
+  {
+    "id": "11",
+    "img": "https://cw10608.tw1.ru/bank11.png",
+    "title": "Балтинвестбанк"
+  },
+  {
+    "id": "12",
+    "img": "https://cw10608.tw1.ru/bank12.png",
+    "title": "Плюсбанк"
+  },
+  {
+    "id": "13",
+    "img": "https://cw10608.tw1.ru/bank13.png",
+    "title": "Промсвязьбанк"
+  },
+  {
+    "id": "14",
+    "img": "https://cw10608.tw1.ru/bank14.png",
+    "title": "БанкСоюз"
+  },
+  {
+    "id": "15",
+    "img": "https://cw10608.tw1.ru/bank15.png",
+    "title": "Банк Советский"
+  },
+  {
+    "id": "16",
+    "img": "https://cw10608.tw1.ru/bank16.png",
+    "title": "ПримСоцБанк"
+  }
+]
