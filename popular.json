@@ -1,0 +1,32 @@
+[
+  {
+    "id": "1",
+    "img": "https://cw10608.tw1.ru/audiq7.png",
+    "title": "AUDI Q7"
+  },
+  {
+    "id": "2",
+    "img": "https://cw10608.tw1.ru/solaris.png",
+    "title": "Hyundai Solaris"
+  },
+  {
+    "id": "3",
+    "img": "https://cw10608.tw1.ru/seltos.png",
+    "title": "Kia Seltos"
+  },
+  {
+    "id": "4",
+    "img": "https://cw10608.tw1.ru/camri.png",
+    "title": "Toyota Camry"
+  },
+  {
+    "id": "5",
+    "img": "https://cw10608.tw1.ru/bmwx6.png",
+    "title": "BMW X6"
+  },
+  {
+    "id": "6",
+    "img": "https://cw10608.tw1.ru/shoda.png",
+    "title": "Shkoda Superb"
+  }
+]
