@@ -142,5 +142,47 @@
         "img3": "https://cw10608.tw1.ru/jeep4.webp",
         "img4": "https://cw10608.tw1.ru/jeep5.webp"
     }
+},
+{
+"id": "9",
+"img": "https://cw10608.tw1.ru/audiq7.png",
+"popular": "Популярный",
+"mark": "AUDI",
+"model": "Q7"
+},
+{
+"id": "10",
+"img": "https://cw10608.tw1.ru/solaris.png",
+"popular": "Популярный",
+"mark": "Hyundai",
+"model": "Solaris"
+},
+{
+"id": "11",
+"img": "https://cw10608.tw1.ru/seltos.png",
+"popular": "Популярный",
+"mark": "Kia",
+"model": "Seltos"
+},
+{
+"id": "12",
+"img": "https://cw10608.tw1.ru/camri.png",
+"popular": "Популярный",
+"mark": "Toyota",
+"model": "Camry"
+},
+{
+"id": "13",
+"img": "https://cw10608.tw1.ru/bmwx6.png",
+"popular": "Популярный",
+"mark": "BMW",
+"model": "X6"
+},
+{
+"id": "14",
+"img": "https://cw10608.tw1.ru/shoda.png",
+"popular": "Популярный",
+"mark": "Shkoda",
+"model": "Superb"
 }
 ]
