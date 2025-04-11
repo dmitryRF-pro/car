@@ -9,7 +9,7 @@
     "mileage": 10,
     "volume": 2.2,
     "horsepower": 194,
-    "img": "carnival1.webp",
+    "img": "https://raw.githubusercontent.com/dmitryRF-pro/car/refs/heads/main/carnival1.webp",
     "gallery": {
         "img1": "carnival2.webp",
         "img2": "carnival3.webp",
@@ -27,7 +27,7 @@
     "mileage": 52363,
     "volume": 2.5,
     "horsepower": 200,
-    "img": "camri1.webp",
+    "img": "https://raw.githubusercontent.com/dmitryRF-pro/car/refs/heads/main/camri1.webp",
     "gallery": {
         "img1": "camri2.webp",
         "img2": "camri3.webp",
@@ -45,7 +45,7 @@
     "mileage": 90,
     "volume": 5.3,
     "horsepower": 360,
-    "img": "tahoe1.webp",
+    "img": "https://raw.githubusercontent.com/dmitryRF-pro/car/refs/heads/main/tahoe1.webp",
     "gallery": {
         "img1": "tahoe2.webp",
         "img2": "tahoe3.webp",
@@ -63,7 +63,7 @@
     "mileage": 110285,
     "volume": 4.4,
     "horsepower": 450,
-    "img": "bmw1.webp",
+    "img": "https://raw.githubusercontent.com/dmitryRF-pro/car/refs/heads/main/bmw1.webp",
     "gallery": {
         "img1": "bmw2.webp",
         "img2": "bmw3.webp",
@@ -81,7 +81,7 @@
     "mileage": 15,
     "volume": 2.0,
     "horsepower": 238,
-    "img": "monjaro1.webp",
+    "img": "https://raw.githubusercontent.com/dmitryRF-pro/car/refs/heads/main/monjaro1.webp",
     "gallery": {
         "img1": "monjaro2.webp",
         "img2": "monjaro3.webp",
@@ -99,7 +99,7 @@
     "mileage": 50,
     "volume": 3.5,
     "horsepower": 450,
-    "img": "ford1.webp",
+    "img": "https://raw.githubusercontent.com/dmitryRF-pro/car/refs/heads/main/ford1.webp",
     "gallery": {
         "img1": "ford2.webp",
         "img2": "ford3.webp",
@@ -117,7 +117,7 @@
     "mileage": 147941,
     "volume": 2.0,
     "horsepower": 150,
-    "img": "mazda1.webp",
+    "img": "https://raw.githubusercontent.com/dmitryRF-pro/car/refs/heads/main/mazda1.webp",
     "gallery": {
         "img1": "mazda2.webp",
         "img2": "mazda3.webp",
@@ -135,7 +135,7 @@
     "mileage": 38,
     "volume": 2.0,
     "horsepower": 272,
-    "img": "jeep1.webp",
+    "img": "https://raw.githubusercontent.com/dmitryRF-pro/car/refs/heads/main/jeep1.webp",
     "gallery": {
         "img1": "jeep2.webp",
         "img2": "jeep3.webp",
@@ -145,42 +145,42 @@
 },
 {
 	"id": "9",
-	"img": "audiq7.png",
+	"img": "https://raw.githubusercontent.com/dmitryRF-pro/car/refs/heads/main/audiq7.png",
 	"popular": "Популярный",
 	"mark": "AUDI",
 	"model": "Q7"
 },
 {
 	"id": "10",
-	"img": "solaris.png",
+	"img": "https://raw.githubusercontent.com/dmitryRF-pro/car/refs/heads/main/solaris.png",
 	"popular": "Популярный",
 	"mark": "Hyundai",
 	"model": "Solaris"
 },
 {
 	"id": "11",
-	"img": "seltos.png",
+	"img": "https://raw.githubusercontent.com/dmitryRF-pro/car/refs/heads/main/seltos.png",
 	"popular": "Популярный",
 	"mark": "Kia",
 	"model": "Seltos"
 },
 {
 	"id": "12",
-	"img": "camri.png",
+	"img": "https://raw.githubusercontent.com/dmitryRF-pro/car/refs/heads/main/camri.png",
 	"popular": "Популярный",
 	"mark": "Toyota",
 	"model": "Camry"
 },
 {
 	"id": "13",
-	"img": "bmwx6.png",
+	"img": "https://raw.githubusercontent.com/dmitryRF-pro/car/refs/heads/main/bmwx6.png",
 	"popular": "Популярный",
 	"mark": "BMW",
 	"model": "X6"
 },
 {
 	"id": "14",
-	"img": "shoda.png",
+	"img": "https://raw.githubusercontent.com/dmitryRF-pro/car/refs/heads/main/shoda.png",
 	"popular": "Популярный",
 	"mark": "Shkoda",
 	"model": "Superb"
