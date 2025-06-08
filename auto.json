@@ -148,41 +148,77 @@
 	"img": "https://raw.githubusercontent.com/dmitryRF-pro/car/refs/heads/main/audiq7.png",
 	"popular": "Популярный",
 	"mark": "AUDI",
-	"model": "Q7"
+	"model": "Q7",
+	"priceOld": "6510000",
+    "priceCurrent": "6145000",
+    "year": 2024,
+    "mileage": 38,
+    "volume": 3.0,
+    "horsepower": 300
 },
 {
 	"id": "10",
 	"img": "https://raw.githubusercontent.com/dmitryRF-pro/car/refs/heads/main/solaris.png",
 	"popular": "Популярный",
 	"mark": "Hyundai",
-	"model": "Solaris"
+	"model": "Solaris",
+	"priceOld": "2510000",
+    "priceCurrent": "2145000",
+    "year": 2023,
+    "mileage": 154,
+    "volume": 2.0,
+    "horsepower": 200
 },
 {
 	"id": "11",
 	"img": "https://raw.githubusercontent.com/dmitryRF-pro/car/refs/heads/main/seltos.png",
 	"popular": "Популярный",
 	"mark": "Kia",
-	"model": "Seltos"
+	"model": "Seltos",
+	"priceOld": "3410000",
+    "priceCurrent": "3145000",
+    "year": 2024,
+    "mileage": 38,
+    "volume": 2.2,
+    "horsepower": 120
 },
 {
 	"id": "12",
 	"img": "https://raw.githubusercontent.com/dmitryRF-pro/car/refs/heads/main/camri.png",
 	"popular": "Популярный",
 	"mark": "Toyota",
-	"model": "Camry"
+	"model": "Camry",
+	"priceOld": "3410000",
+    "priceCurrent": "3145000",
+    "year": 2024,
+    "mileage": 38,
+    "volume": 2.2,
+    "horsepower": 120
 },
 {
 	"id": "13",
 	"img": "https://raw.githubusercontent.com/dmitryRF-pro/car/refs/heads/main/bmwx6.png",
 	"popular": "Популярный",
 	"mark": "BMW",
-	"model": "X6"
+	"model": "X6",
+	"priceOld": "6410000",
+    "priceCurrent": "6145000",
+    "year": 2024,
+    "mileage": 15,
+    "volume": 3.2,
+    "horsepower": 320
 },
 {
 	"id": "14",
 	"img": "https://raw.githubusercontent.com/dmitryRF-pro/car/refs/heads/main/shoda.png",
 	"popular": "Популярный",
 	"mark": "Shkoda",
-	"model": "Superb"
+	"model": "Superb",
+	"priceOld": "4410000",
+    "priceCurrent": "4145000",
+    "year": 2024,
+    "mileage": 97,
+    "volume": 2.4,
+    "horsepower": 220
 }
 ]
